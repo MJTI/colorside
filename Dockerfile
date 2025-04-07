@@ -1,1 +1,0 @@
-From openjdk:17
